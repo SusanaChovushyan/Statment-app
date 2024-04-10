@@ -9,7 +9,7 @@ const Statement = () => {
       .then(response => response.json())
       .then(data => {
         setStatements(data);
-        console.log(data); // Log data inside the fetch chain
+        console.log(1111);
       })
       .catch(error => console.error('Error fetching data:', error));
   }, []);
