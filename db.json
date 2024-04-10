@@ -1,0 +1,25 @@
+{
+    "statements": [
+      {
+        "id": 1,
+        "title": "Statement 1",
+        "description": "This is the first statement.",
+        "author": "John Doe",
+        "date": "2024-04-10"
+      },
+      {
+        "id": 2,
+        "title": "Statement 2",
+        "description": "This is the second statement.",
+        "author": "Jane Smith",
+        "date": "2024-04-11"
+      },
+      {
+        "id": 3,
+        "title": "Statement 3",
+        "description": "This is the third statement.",
+        "author": "Alice Johnson",
+        "date": "2024-04-12"
+      }
+    ]
+  }
